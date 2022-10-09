@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">I'm a Software Develpment Student from Panama</h3>
+<h3 align="center">I'm a Software Develpment from Panama</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inusui" alt="inusui" /></a> </p>
 
