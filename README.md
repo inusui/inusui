@@ -9,6 +9,8 @@
 
 - 📝 I regularly write articles on [http://inusui.web.app](http://inusui.web.app)
 
+- Check out my other repositories  [Bitbucket](https://bitbucket.org/inusui/workspace/repositories/)
+
 - ⚡ Fun fact **Albion Online**
 
 <h3 align="left">Connect with me:</h3>
