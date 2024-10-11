@@ -1,4 +1,5 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi 👋, I'm Ricardo</h1>
+<h3 align="center">I'm a Software Develpment from Panama</h3>
 
 ###
 
@@ -14,7 +15,9 @@
   <br /><br />
   - 🌱 Check out my other repositories <a href="https://bitbucket.org/inusui/workspace/repositories/">Bitbucket</a>
 </p>
+
 ###
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/inusui" target="blank"
