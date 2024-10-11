@@ -111,6 +111,16 @@
 
 ###
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
+    ><img
+      src="https://github-profile-trophy.vercel.app/?username=inusui"
+      alt="inusui"
+  /></a>
+</p>
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Inusui/count.svg?"  />
 </div>
