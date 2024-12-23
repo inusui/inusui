@@ -36,7 +36,7 @@
       height="30"
       width="40"
   /></a>
-<a href="https://dev.to/inusui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="inusui" height="30" width="40" /></a>
+<a href="https://dev.to/inusui" target="blank"><img align="center" src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="inusui" height="30" width="40" /></a>
   <a href="https://discord.gg/aS28ta9" target="blank"
     ><img
       align="center"
