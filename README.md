@@ -1,88 +1,63 @@
-<h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">I'm a Software Develpment from Panama</h3>
+<h1 align="center">Hola 👋, soy Ricardo</h1>
+<h3 align="center">Software Developer en Panamá — programar es mi trabajo y mi hobby</h3>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-<p align="left">
-  I'm Ricardo from Panama<br /><br />- 📚 I'm currently learning Python,
-  Angular, Java, AWS.
-  <br /><br />
-  - ⚡ I regularly
-  write articles on <a href="http://inusui.web.app">http://inusui.web.app</a>
-  <br /><br />
-  - 🌱 Check out my other repositories <a href="https://bitbucket.org/inusui/workspace/repositories/">Bitbucket</a>
+<p align="center">
+  Trabajo en varias cosas a la vez porque me divierte: APIs, automatización, apps móviles,
+  plugins, webs... si se puede programar, probablemente lo haya tocado.
 </p>
 
-###
+## 👨‍💻 Sobre mí
 
-<h3 align="left">🔗 Connect with me</h3>
-<p align="left">
-  <a href="https://twitter.com/inusui" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="inusui"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://linkedin.com/in/inusui" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="inusui"
-      height="30"
-      width="40"
-  /></a>
-<a href="https://dev.to/inusui" target="blank"><img align="center" src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="inusui" height="30" width="40" /></a>
-  <a href="https://discord.gg/aS28ta9" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="aS28ta9"
-      height="30"
-      width="40"
-  /></a>
+- 🧩 Multitasking por naturaleza — reviso varios proyectos personales en paralelo
+- 🛠️ He montado pipelines de CI/CD para varios de mis proyectos (tests, releases automáticos)
+- 🔐 Me gusta diseñar pensando en seguridad: puertos mínimos, túneles SSH, entornos aislados
+- ✍️ Escribo sobre lo que aprendo en [dev.to/inusui](https://dev.to/inusui)
+- 💼 Abierto a trabajos freelance / medio tiempo — ¿tienes un proyecto en mente? Hablemos
+
+## 🛠 Lenguajes y herramientas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
 </p>
 
-###
+## 📊 Estadísticas
 
-<h3 align="left">🛠 Language and tools</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=440&lines=ricardo%40github%3A~%24+whoami;Software+Developer+%7C+Panama;ricardo%40github%3A~%24+cat+stats.txt" alt="Terminal typing effect" />
+</p>
 
-###
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inusui&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inusui&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<br clear="both">
+## 🚀 Algunos proyectos
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" height="40" alt="couchdb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-</div>
+| Proyecto | Qué hace |
+|---|---|
+| [**obsidian-termsidian**](https://github.com/inusui/obsidian-termsidian) | Terminal real en la barra lateral de Obsidian. Helper en Go + plugin en TypeScript, con CI/CD y releases automáticos |
+| [**telegram-register**](https://github.com/inusui/telegram-register) | Bot de Telegram que lee facturas con OCR y las registra solo en Google Sheets |
+| [**venuzka_vet**](https://github.com/inusui/venuzka_vet) | Sistema para veterinaria con CouchDB y réplicas entre servidores |
+| [**VenusDogCam**](https://github.com/inusui/VenusDogCam) | App Android con CameraX + botón de sonido para el juguete de mi perro |
+| [**AOInusui**](https://github.com/inusui/AOInusui) | Web sobre Albion Online — mi excusa para practicar frontend con algo que me gusta |
+| [**PersonalWebPage_v2**](https://github.com/inusui/PersonalWebPage_v2) | Mi portafolio, en Angular + Firebase, con su propio pipeline de CI |
+| [**Generador de Contraseñas**](https://github.com/inusui/Generador-de-Contrase-as-V2) | Generador de contraseñas en Python |
+| [**ionicProyects**](https://github.com/inusui/ionicProyects) | Experimentos con Ionic + Angular para apps híbridas |
 
-###
+🧪 También tengo cosas corriendo que no son públicas todavía: un bot que audita y endurece mi propio servidor, una wiki alimentada por LLM en Obsidian, un sistema que controla los pagos del streaming familiar, y una app en Flutter que pronto subo. Y hay un cacharrito con Raspberry Pi para mandar mensajes de voz que algún día voy a terminar 🎙️
+
+## 🔗 Contacto
+
+¿Tienes un proyecto en mente? Hablemos.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/inusui)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:radg21@outlook.es)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/inusui)
