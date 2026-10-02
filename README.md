@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Ricardo</h1>
-<h3 align="center">Software Developer en Panamá — programar es mi trabajo y mi hobby</h3>
+<h3 align="center">Software Developer — programar es mi trabajo y mi hobby</h3>
 
 <p align="center">
   Trabajo en varias cosas a la vez porque me divierte: APIs, automatización, apps móviles,
@@ -10,7 +10,7 @@
 
 - 🧩 Multitasking por naturaleza — reviso varios proyectos personales en paralelo
 - 🛠️ He montado pipelines de CI/CD para varios de mis proyectos (tests, releases automáticos)
-- 🔐 Me gusta diseñar pensando en seguridad: puertos mínimos, túneles SSH, entornos aislados
+- 🔐 Me gusta diseñar pensando en seguridad: puertos mínimos, túneles SSH, entornos aislados.
 - ✍️ Escribo sobre lo que aprendo en [dev.to/inusui](https://dev.to/inusui)
 - 💼 Abierto a trabajos freelance / medio tiempo — ¿tienes un proyecto en mente? Hablemos
 
@@ -52,7 +52,7 @@
 | [**Generador de Contraseñas**](https://github.com/inusui/Generador-de-Contrase-as-V2) | Generador de contraseñas en Python |
 | [**ionicProyects**](https://github.com/inusui/ionicProyects) | Experimentos con Ionic + Angular para apps híbridas |
 
-🧪 También tengo cosas corriendo que no son públicas todavía: un bot que audita y endurece mi propio servidor, una wiki alimentada por LLM en Obsidian, un sistema que controla los pagos del streaming familiar, y una app en Flutter que pronto subo. Y hay un cacharrito con Raspberry Pi para mandar mensajes de voz que algún día voy a terminar 🎙️
+🧪 También tengo cosas corriendo que no son públicas todavía: un bot que audita y endurece mi propio servidor, una wiki alimentada por LLM en Obsidian, un sistema que controla los pagos del streaming familiar, y una app en Flutter que puede que haga publico.
 
 ## 🔗 Contacto
 
